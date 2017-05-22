@@ -1,0 +1,22 @@
+{
+  "name": "demojavscript",
+  "version": "1.0.0",
+  "description": "Demo some features of JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibond/basicJavaScript.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Hoang Bao Thien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bibond/basicJavaScript/issues"
+  },
+  "homepage": "https://github.com/bibond/basicJavaScript#readme"
+}
