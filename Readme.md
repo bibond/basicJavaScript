@@ -3,3 +3,4 @@
   + git init
   +nano .gitignore
   ....
+  pushsafaf
